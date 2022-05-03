@@ -16,7 +16,7 @@
 3. Выполните команду
 
     ```shell script 
-    docker-compose -f docker-compose.yml up --build
+    docker-compose up --build
     ```
               
     Приложение будет доступно по адресу http://localhost:8000/game/v1 и http://localhost:8000/game/v2
